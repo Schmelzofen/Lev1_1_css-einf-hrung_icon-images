@@ -1,0 +1,13 @@
+*{
+    background: url(../img/1.jpg) no-repeat;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
+
+div{
+    max-width: 480px;
+    margin: 100px auto;
+}
